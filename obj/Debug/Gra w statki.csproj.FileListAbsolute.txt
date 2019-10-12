@@ -5,3 +5,10 @@ E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Gra w statki\obj\Debug\Gra w statki.c
 E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Gra w statki\obj\Debug\Gra w statki.csproj.CoreCompileInputs.cache
 E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Gra w statki\obj\Debug\Gra w statki.exe
 E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Gra w statki\obj\Debug\Gra w statki.pdb
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Battleships the Game\bin\Debug\Gra w statki.exe.config
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Battleships the Game\bin\Debug\Gra w statki.exe
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Battleships the Game\bin\Debug\Gra w statki.pdb
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Battleships the Game\obj\Debug\Gra w statki.csprojAssemblyReference.cache
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Battleships the Game\obj\Debug\Gra w statki.csproj.CoreCompileInputs.cache
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Battleships the Game\obj\Debug\Gra w statki.exe
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\Kuźmicz\Battleships the Game\obj\Debug\Gra w statki.pdb
