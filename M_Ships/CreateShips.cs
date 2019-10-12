@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Gra_w_statki.M_Misc;
 using Gra_w_statki.M_Exc;
+using Gra_w_statki.M_BuildTab;
 
 namespace Gra_w_statki.M_Ships {
     class CreateShips {
@@ -15,6 +16,7 @@ namespace Gra_w_statki.M_Ships {
             List<List<string>> ShipsList = new List<List<string>>();
 
             MiscASCIIConverter ASCII = new MiscASCIIConverter();
+            BuildTabMyShips cellValidation = new BuildTabMyShips();
 
             for (int i = 0; i < 10; i++) {
                 switch (i) {
@@ -49,6 +51,9 @@ namespace Gra_w_statki.M_Ships {
                                 }
 
                                 List<string> fourMasts = new List<string>(CreateMiddleCells(diffCell, cellBow));
+                                
+                                cellValidation.CellNeighbours(ReturnSubList(fourMasts));
+
                                 ShipsList.Add(fourMasts);
                                 goBack = false;
 
@@ -109,6 +114,10 @@ namespace Gra_w_statki.M_Ships {
             }
 
             return shipCells;
+        }
+
+        public List<string> ReturnSubList(List<string> sublist) {
+            return sublist;
         }
     }
 }
